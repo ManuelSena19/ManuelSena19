@@ -10,3 +10,5 @@
     - Comics
 	- Music
     - Graphic design
+
+<a href=”https://twitter.com/__manuelsena"><img src=”https://img.shields.io/twitter/follow/__manuelsena?label=Follow&style=social"></a>
