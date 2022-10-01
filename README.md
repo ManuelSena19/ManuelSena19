@@ -10,4 +10,5 @@
     - Comics
 	- Music
     - Graphic design
+    - Sports (Football and Basketball)
 
