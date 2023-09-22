@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello👋🏽, I'm Sena and I'm a Software Developer🧑🏽‍💻.<br><br>🌍I live in Burma Camp, Accra.<br>📚I'm currently a 3rd year CS student at KNUST.<br><br>I mostly use flutter, firebase, python and javascript but I am open to learning new languages and technologies.<br><br>Interests outside of coding:<br>🎮Gaming<br>🎬Anime<br>🎧Music<br>🎨Graphic design<br>⚽Football<br>🏀Basketball<br><br>📧Email: emmanueldokeii@gmail.com
+Hello👋🏽, I'm Sena and I'm a Software Developer🧑🏽‍💻.<br><br>🌍I live in Burma Camp, Accra.<br>📚I'm currently a 4th year CS student at KNUST.<br><br>I mostly use flutter, firebase, python and javascript but I am open to learning new languages and technologies.<br><br>Interests outside of coding:<br>🎮Gaming<br>🎬Anime<br>🎧Music<br>🎨Graphic design<br>⚽Football<br>🏀Basketball<br><br>📧Email: emmanueldokeii@gmail.com
 
 
 ## 🌐 Socials:
